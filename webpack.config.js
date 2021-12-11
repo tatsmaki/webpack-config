@@ -27,14 +27,4 @@ module.exports = {
       },
     ],
   },
-
-  mode: 'development',
-
-  devtool: 'inline-source-map',
-
-  devServer: {
-    static: './dist',
-    open: true,
-    port: 4000,
-  }
 };
