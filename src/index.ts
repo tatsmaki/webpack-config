@@ -1,3 +1,3 @@
 import './index.css';
 
-const a: number = 2;
+const a =  2;

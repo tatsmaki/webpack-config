@@ -28,10 +28,6 @@ module.exports = {
     ],
   },
 
-  resolve: {
-    extensions: ['.ts'],
-  },
-
   mode: 'development',
 
   devtool: 'inline-source-map',
